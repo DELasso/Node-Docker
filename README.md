@@ -10,6 +10,10 @@ The application starts a server on port 3000 and responds with a "Hello World fr
 
 ### Screenshots of some step by step
 
+### DOCKER DESKTOP INSTALL:
+![imagen](https://github.com/user-attachments/assets/21114a29-f36a-4a23-962f-722b38bbd94b)
+
+
 ### - STEP 1:
 ![Paso1-UsandoNode](https://github.com/user-attachments/assets/ca566528-5a2a-4c95-bbfb-e465ad5aca98)
 
